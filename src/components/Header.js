@@ -1,5 +1,3 @@
-
-
 const Header = ({isDarkMode, onDarkModeClick}) => {
     return (
         <header>
